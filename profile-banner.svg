@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="title desc">
+<title id="title">Vaishnavi Trivedi</title><desc id="desc">Thoughtful code. A curious mind. A little grace.</desc>
+<defs><linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fcf6ef"/><stop offset="1" stop-color="#f2e2df"/></linearGradient><linearGradient id="petal"><stop stop-color="#ead0cb"/><stop offset="1" stop-color="#d8b2b4"/></linearGradient></defs>
+<rect width="1280" height="400" rx="20" fill="url(#paper)"/><rect x="20" y="20" width="1240" height="360" rx="12" fill="none" stroke="#bb9590" stroke-opacity=".45"/>
+<path d="M64 67h1152" stroke="#c5a19a" stroke-opacity=".55"/>
+<text x="66" y="48" fill="#81545e" font-family="Arial,sans-serif" font-size="11" letter-spacing="3">A SPACE FOR IDEAS, CODE &amp; GROWTH</text><text x="1214" y="48" text-anchor="end" fill="#977575" font-family="Arial,sans-serif" font-size="11" letter-spacing="1">@trivedivaishnavi</text>
+<text x="66" y="122" fill="#98676d" font-family="Arial,sans-serif" font-size="12" letter-spacing="3">COMPUTER SCIENCE · ARTIFICIAL INTELLIGENCE</text>
+<text x="62" y="203" fill="#642e41" font-family="Georgia,Times New Roman,serif" font-size="72" letter-spacing="-2">Vaishnavi Trivedi</text>
+<text x="67" y="252" fill="#89656a" font-family="Georgia,Times New Roman,serif" font-size="25" font-style="italic">Thoughtful code. A curious mind. A little grace.</text>
+<path d="M67 291h60" stroke="#b78c70" stroke-width="2"/><text x="67" y="330" fill="#81545e" font-family="Arial,sans-serif" font-size="12" letter-spacing="2">CSE (AI), CLASS OF 2028</text><text x="67" y="351" fill="#a28280" font-family="Arial,sans-serif" font-size="11" letter-spacing="1">PSIT · KANPUR</text>
+<g transform="translate(1060 210)" fill="url(#petal)" fill-opacity=".45" stroke="#ab7e85" stroke-width="1.3"><ellipse cy="-51" rx="34" ry="67" transform="rotate(-8)"/><ellipse cy="-51" rx="34" ry="67" transform="rotate(64)"/><ellipse cy="-51" rx="34" ry="67" transform="rotate(136)"/><ellipse cy="-51" rx="34" ry="67" transform="rotate(208)"/><ellipse cy="-51" rx="34" ry="67" transform="rotate(280)"/><circle r="22" fill="#f6e7de" fill-opacity="1" stroke="#b78c70"/><circle r="8" fill="#b78c70" stroke="none"/></g>
+<path d="M1090 319c35 3 60-9 77-29m-45 24c1-17 13-32 31-35-2 17-13 31-31 35m-4 3c17 1 32 9 39 21-19 0-32-7-39-21" fill="none" stroke="#b99d90" stroke-width="1.3"/>
+<g fill="#b78c70"><path d="M904 102l3 9 9 3-9 3-3 9-3-9-9-3 9-3z"/><circle cx="1192" cy="176" r="2.5"/><circle cx="932" cy="312" r="2"/></g></svg>
