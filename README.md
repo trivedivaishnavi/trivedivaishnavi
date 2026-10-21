@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-banner.svg" alt="Vaishnavi Trivedi — thoughtful code, a curious mind, a little grace" width="100%" />
+  <img src="./profile-banner.png" alt="Vaishnavi Trivedi — thoughtful code, a curious mind, a little grace" width="100%" />
 </p>
 
 <p align="center">
